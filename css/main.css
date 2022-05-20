@@ -23,7 +23,7 @@ body {
 
 /***HEADER***/
 header {
-    background: url('/Users/sheilablair/Desktop/skillcrush/jubilee-austen/img/full-background.png');
+    background-image: url("../img/full-background.png");
     background-position: center;
     background-size: cover;
     height: 800px;
